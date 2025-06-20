@@ -174,13 +174,16 @@ Akar kuadrat        : 2.53
 > Gunakan rumus:
 
 * Konversi kecepatan awal:
-    ![alt text](rumus_konversi_kecepatan.png)
+
+  ![alt text](rumus_konversi_kecepatan.png)
 
 * Kecepatan akhir:
-    ![alt text](rumus_kecepatan_akhir.png)
+
+  ![alt text](rumus_kecepatan_akhir.png)
 
 * Jarak:
-    ![alt text](rumus_jarak.png)
+
+  ![alt text](rumus_jarak.png)
 
 ---
 
